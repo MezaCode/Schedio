@@ -1,3 +1,3 @@
 # Schedio
-Calendar app for auto scheduling "chores"
-RowdyHacks 2021
+Calendar app for auto scheduling "chores" 
+- RowdyHacks 2021 project
